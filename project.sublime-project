@@ -1,0 +1,25 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "."
+		},
+		{
+			"follow_symlinks": true,
+			"path": "C:\\EasyPHP\\data\\localweb\\ToDo"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "C:\\EasyPHP\\data\\localweb\\Cars"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "C:\\EasyPHP\\data\\localweb\\Notes"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "C:\\EasyPHP\\data\\localweb\\projects\\chart"
+		}
+	]
+}
