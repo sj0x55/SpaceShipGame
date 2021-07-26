@@ -2,7 +2,7 @@
 Simple game written in JavaScript. Used: Canvas, RequireJS and Sass.
 
 ## Demo:
-http://sjanczewski.github.io/SpaceShipGame/public/
+http://sj0x55.github.io/SpaceShipGame/public/
 
 ## Control:
 - moving: ARROWS
